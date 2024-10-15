@@ -7,6 +7,7 @@ export const Home = () => {
             <PageTemplate> 
                 <h2 className='text-white text-6xl'>TBA</h2>
                 <h2 className='text-white text-6xl'>Home</h2>
+                <h2 className='text-white text-6xl'>Test</h2>
             </PageTemplate>
     )
 }
